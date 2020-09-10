@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "j2c-mobile",
-    "slug": "j2c-mobile",
+    "name": "mobile",
+    "slug": "mobile",
     "platforms": [
       "android"
     ],
@@ -21,7 +21,7 @@
       "**/*"
     ],
     "android": {
-      "package": "com.j2c.android.mobile"
+      "package": "com.CompanyName.android.mobile"
     }
   }
 }
